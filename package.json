@@ -2,8 +2,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "StavrosR",
 	"description": "Challenger FCC npm"
-,	"dependencies": {
-		"express": "^4.14.0"
+,
+	"keywords": ["freecodecamp", "lets try something new"],
+	"license": "MIT",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
